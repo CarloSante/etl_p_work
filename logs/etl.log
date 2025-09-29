@@ -1,0 +1,24 @@
+2025-09-29 00:24:34,649 - unknown_user - INFO - File olistPW_2016_customers.csv caricato per customers
+2025-09-29 00:24:34,672 - unknown_user - INFO - File olistPW_2017_customers.csv caricato per customers
+2025-09-29 00:24:40,539 - unknown_user - INFO - Trasformazione completata per customers
+2025-09-29 00:24:43,928 - unknown_user - INFO - Caricati 17054 record di customers
+2025-09-29 00:24:43,930 - unknown_user - INFO - File olistPW_2016_sellers.csv caricato per sellers
+2025-09-29 00:24:43,944 - unknown_user - INFO - File olistPW_2017_sellers.csv caricato per sellers
+2025-09-29 00:25:15,152 - unknown_user - INFO - Trasformazione completata per sellers
+2025-09-29 00:25:15,449 - unknown_user - INFO - Caricati 1573 record di sellers
+2025-09-29 00:25:15,452 - unknown_user - INFO - File olistPW_2016_categories.csv caricato per categories
+2025-09-29 00:25:15,465 - unknown_user - INFO - File olistPW_2017_categories.csv caricato per categories
+2025-09-29 00:25:18,424 - unknown_user - INFO - Trasformazione completata per categories
+2025-09-29 00:25:18,441 - unknown_user - INFO - Caricati 24 record di categories
+2025-09-29 00:25:18,444 - unknown_user - INFO - File olistPW_2016_products.csv caricato per products
+2025-09-29 00:25:18,466 - unknown_user - INFO - File olistPW_2017_products.csv caricato per products
+2025-09-29 00:25:19,953 - unknown_user - INFO - Trasformazione completata per products
+2025-09-29 00:25:22,266 - unknown_user - INFO - Caricati 10933 record di products
+2025-09-29 00:25:22,269 - unknown_user - INFO - File olistPW_2016_orders.csv caricato per orders
+2025-09-29 00:25:22,315 - unknown_user - INFO - File olistPW_2017_orders.csv caricato per orders
+2025-09-29 00:25:25,001 - unknown_user - INFO - Trasformazione completata per orders
+2025-09-29 00:25:30,149 - unknown_user - INFO - Caricati 20580 record di orders
+2025-09-29 00:25:30,153 - unknown_user - INFO - File olistPW_2016_items.csv caricato per items
+2025-09-29 00:25:30,195 - unknown_user - INFO - File olistPW_2017_items.csv caricato per items
+2025-09-29 00:25:31,932 - unknown_user - INFO - Trasformazione completata per items
+2025-09-29 00:25:39,411 - unknown_user - INFO - Caricati 26384 record di items
